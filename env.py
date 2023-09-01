@@ -3,9 +3,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = os.getenv("API_ID", "21627756").strip()
-API_HASH = os.getenv("API_HASH", "fe77fbf0cae9f7f5ece37659e2466cf1").strip()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "6479433495:AAEf_dT0k678wrlWtJaGFQ6t1jJNL8p4_58").strip()
+API_ID = os.getenv("API_ID", "15986212").strip()
+API_HASH = os.getenv("API_HASH", "6c6ac02bc91d512401c09279f4e69837").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "6448273438:AAHk6Z78LoebLF4gMk_ki_YfWl6UpyRd5Ds").strip()
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 MUST_JOIN = os.getenv("MUST_JOIN", "https://t.me/UI_XB")
 
